@@ -3,4 +3,4 @@
 
 -   [Node.js](https://nodejs.org/en/)
 -   [Express](https://expressjs.com/)
--   [MongoDB Atlas] (https://www.mongodb.com/atlas/database)
+-   [MongoDB Atlas](https://www.mongodb.com/atlas/database)
